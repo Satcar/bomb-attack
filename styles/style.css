@@ -3,6 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 100px;
+    background-color: #405e29;
 }
 
 body:has(.card.bomb:hover) {
@@ -18,7 +19,6 @@ body:has(.card.droplet:hover) {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-color: #405e29;
     width: 750px;
     height: 1000px;
     padding: 25px;
